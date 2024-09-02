@@ -1,0 +1,16 @@
+{
+  "name": "Web",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "http": {
+    "port": 8888
+  },
+  "db": {
+    "url": "jdbc:postgresql://localhost:5433/postgres",
+    "user": "postgres",
+    "password": "password"
+  }
+}
